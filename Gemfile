@@ -37,6 +37,9 @@ gem 'bootsnap', '>= 1.1.0', require: false
 # Bootstrap sass gem
 gem 'bootstrap-sass'
 
+# bcrypt gem
+gem 'bcrypt'
+
 group :development, :test do
   #sqlite for development
   gem 'sqlite3'
